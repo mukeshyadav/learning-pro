@@ -16,3 +16,5 @@ function arrayWithoutDuplicateAndWithoutValues(checker, duplicateValues) {
     return arrWithoutDupicateValues;
   }
 }
+
+module.exports = arrayWithoutDuplicateAndWithoutValues;
