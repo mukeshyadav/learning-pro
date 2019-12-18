@@ -1,0 +1,22 @@
+{
+  "name": "learning-pro",
+  "version": "1.0.0",
+  "description": "Pesto Pro Batch 1, Coding exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukeshyadav/learning-pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukeshyadav/learning-pro/issues"
+  },
+  "homepage": "https://github.com/mukeshyadav/learning-pro#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
