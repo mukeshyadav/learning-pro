@@ -1,10 +1,10 @@
 # Animal Sort
 
-## Design a custom sort for sorting animals based on the number of legs.
+#### Design a custom sort for sorting animals based on the number of legs.
 
-## If the animals have same number of legs, sort on the basis of name.
+#### If the animals have same number of legs, sort on the basis of name.
 
-### Solve following test cases
+#### Solve following test cases
 
 ```
 
